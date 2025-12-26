@@ -1,3 +1,4 @@
+// Name - Anuj Singh - ERP - 10252
 #include<stdio.h>
 //Practical 8: Q.1. write function sumOfDigits that taken as input and return sum of its digits//
 int sumOfDigits(int n){
@@ -17,3 +18,6 @@ int main(){
     return 0;
     
 }
+
+/* Output - 1234
+10 */
