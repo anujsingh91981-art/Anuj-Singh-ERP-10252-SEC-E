@@ -1,3 +1,4 @@
+// Name - Anuj Singh - ERP - 10252
 #include<stdio.h>
 int main(){
     //Practical 7: Q.3.pattern//
@@ -14,3 +15,10 @@ int main(){
     }
     return 0;
 }
+
+/* Output - 5
+A
+AB
+ABC
+ABCD
+ABCDE */

@@ -1,3 +1,4 @@
+// Name - Anuj Singh - ERP - 10252
 #include<stdio.h>
 int main(){
     //Practical 7 : Q.2.Hourglass of length 2n-1//
@@ -23,3 +24,14 @@ int main(){
     }
     return 0;
 }
+
+/* Output - 5
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+********* */

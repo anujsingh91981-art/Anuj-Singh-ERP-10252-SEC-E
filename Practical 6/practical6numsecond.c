@@ -1,4 +1,5 @@
-#include<stdio.h>
+ // Name - Anuj Singh - ERP - 10252
+ #include<stdio.h>
 int main(){
     //Practical 6 : Q.2 sum of even number using continue.//
     int n;
@@ -13,3 +14,6 @@ int main(){
     return 0;
 
 }
+
+/* Output - enter a number:20
+sum of even number from 1 to 20 is 110*/

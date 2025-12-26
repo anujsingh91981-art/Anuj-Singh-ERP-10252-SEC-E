@@ -1,3 +1,4 @@
+// Name - Anuj Singh - ERP - 10252
 #include<stdio.h>
 int main(){
     //Practical 6 : Q.3.ATM Pin Authentication//
@@ -22,3 +23,6 @@ int main(){
     }
     return 0;
 }
+
+/*enter your 4-digit ATM Pin :1234
+Pin is correct. Access granted.*/
